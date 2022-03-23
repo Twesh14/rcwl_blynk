@@ -13,6 +13,7 @@ char auth[] = "";
 char ssid[] = "";
 char pass[] = "";
 
+// For D1 pin in NodeMCU
 #define inPin 5
 int count = 0; 
 
